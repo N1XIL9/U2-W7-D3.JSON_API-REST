@@ -1,0 +1,60 @@
+{
+    "Nome":"Orchestra Sinfonica",
+    "Percussioni": [
+        {
+            "Strumento": "Timpani"
+        },
+        {
+            "Strumento": "Rullanti" 
+        },
+        {
+            "Strumento": "Rototom" 
+        }
+    ],
+    "Archi": [
+        {
+            "Strumento": "Violino"
+        },
+        {
+            "Strumento": "Viola"
+        },
+        {
+            "Strumento": "Violoncello"
+        },
+        {
+            "Strumento": "Contrabbasso"
+        }
+    ],
+    "Fiati": [
+        {
+            "Ottoni": [
+                {
+                    "Strumento": "Tromba"
+                },
+                {
+                    "Strumento": "Trombone"
+                },
+                {
+                    "Strumento": "Corno"
+                }
+            ],
+
+            "Legni": [
+                {
+                    "Strumento": "Faluto"
+                },
+                {
+                    "Strumento": "Clarinetto"
+                },
+                {
+                    "Strumento": "Oboe"
+                }
+            ]
+        }
+    ]     
+}
+
+    
+
+    
+    
