@@ -8,8 +8,8 @@ function btn() {
 
   request.onload = function () {
     let StudentiEpicode = request.response;
-    console.log(StudentiEpicode);
     let display = document.querySelector("#display");
+
     for (let i = 0; i < StudentiEpicode.Alunni.length; i++) {
       let li = document.createElement("li");
       li.innerHTML = StudentiEpicode.Alunni[i].nome;
